@@ -1,1 +1,1 @@
-# Twitter AI Auto-Reply Agent
+# X Auto-Reply MCP Servlet with MCP.run
